@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tyler H. Doane, PhD
-permalink: /home/
+permalink: /Home/
 ---
 ![](docs/AZView.png)
 
