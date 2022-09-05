@@ -10,9 +10,9 @@ A complete and updated C.V. can be found here:
 
 ## Publications
 
-1. **Doane, T.H.**, Gearon, J.H., Martin, H.K., Yanites, B.J., \& Edmonds, D.A., (In prep.). Theory, Development, and Description of Process Topography, Target Journal: *Journal of Geophysical Research: Earth Surface*
+1. **Doane, T.H.**, Gearon, J.H., Martin, H.K., Yanites, B.J., & Edmonds, D.A., (In prep.). Theory, Development, and Description of Process Topography, Target Journal: *Journal of Geophysical Research: Earth Surface*
 
-2. **Doane, Tyler H.**, Yanites, B.J.; Edmonds, D.A.; \& Novick, K.A. (In Review). Topographic roughness reveals forest sensitivity to extreme winds, *Proceedings of the National Academy of the Sciences*
+2. **Doane, Tyler H.**, Yanites, B.J.; Edmonds, D.A.; & Novick, K.A. (In Review). Topographic roughness reveals forest sensitivity to extreme winds, *Proceedings of the National Academy of the Sciences*
 
 3. **Doane, Tyler H.**, Edmonds, D.A., Yanites, B.J., \& Lewis, Q.W. (2021). Topographic roughness on forested hillslopes: a theoretical approach for quantifying hillslope sediment flux from tree throw, *Geophysical Research Letters*,  10.1029/2021GL094987, (\textbf{Featured in EOS, Nov. 2021})
 
