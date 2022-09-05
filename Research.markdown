@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /Research/
+permalink: home/Research/
 ---
 
 A complete and updated C.V. can be found here:
