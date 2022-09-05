@@ -42,7 +42,7 @@ plugins:
   
 navigation_header:
   - title: Tyler H. Doane, PhD
-  - url: /
+  - url: /home
   - title: Research
   - url: /research
   - title: Teaching
