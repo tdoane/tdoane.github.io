@@ -1,5 +1,3 @@
-# Research
-
 A complete and updated C.V. can be found here:
 <br />
 
