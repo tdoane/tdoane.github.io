@@ -5,6 +5,8 @@ permalink: /Research/
 ---
 ## Research
 
+![AZ Sunset](docs/AZsunset.jpg)
+
 My work aims to describe the physical elements and consequences of geomorphic processes. 
 
 A complete and updated C.V. can be found here:
