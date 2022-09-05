@@ -1,1 +1,0 @@
-# Tyler H. Doane, PhD
