@@ -40,13 +40,13 @@ plugins:
   - jekyll-include-cache
   - jemoji
   
-navigation_header:
-- title: Tyler H. Doane, PhD
-- url: "/"
-- title: Research
-- url: "/research/"
-- title: Teaching
-- url: "/teaching/"
+#navigation_header:
+#- title: Tyler H. Doane, PhD
+#- url: "/"
+#- title: Research
+#- url: "/research/"
+#- title: Teaching
+#- url: "/teaching/"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
