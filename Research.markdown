@@ -3,12 +3,15 @@ layout: page
 title: Research
 permalink: /Research/
 ---
+## Research
+
+My work aims to describe the physical elements and consequences of geomorphic processes. 
 
 A complete and updated C.V. can be found here:
 <br />
 [C.V.](/docs/Doane_CV2022.pdf)
 
-## Publications
+### Publications
 
 1. **Doane, T. H.**, Gearon, J.H., Martin, H.K., Yanites, B.J., & Edmonds, D.A., (In prep.). Theory, Development, and Description of Process Topography, Target Journal: *Journal of Geophysical Research: Earth Surface*
 
