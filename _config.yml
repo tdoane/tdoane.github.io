@@ -38,6 +38,14 @@ plugins:
   - jekyll-commonmark
   - jekyll-include-cache
   - jemoji
+  
+navigation_header:
+  - title: Tyler H. Doane, PhD
+  - url: /Home/
+  - title: Research
+  - url: /Research/
+  - title: Teaching
+  - url: /Teaching/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
