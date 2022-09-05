@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: home/Research/
+permalink: /Research/
 ---
 
 A complete and updated C.V. can be found here:
@@ -9,4 +9,3 @@ A complete and updated C.V. can be found here:
 [C.V.](/docs/Doane_CV2022.pdf)
 
 ## Publications
-
