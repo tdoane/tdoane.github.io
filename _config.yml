@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tyler H. Doane, PhD
+#title: Tyler H. Doane, PhD
 email: doanet@iu.edu
 description: Tyler H. Doane, PhD, Geomorphologist. Postdoctoral Research Scientist at USGS.
 baseurl: "" # the subpath of your site, e.g. /blog
