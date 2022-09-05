@@ -21,8 +21,8 @@
 title: Tyler H. Doane, PhD
 email: doanet@iu.edu
 description: Tyler H. Doane, PhD, Geomorphologist. Postdoctoral Research Scientist at USGS.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "https://github.com/tdoane" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thdoane
 github_username:  tdoane
 
