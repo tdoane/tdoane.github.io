@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /Research/
+permalink: /Home/Research/
 ---
 
 ![AZ Sunset](docs/AZsunset.jpg)
