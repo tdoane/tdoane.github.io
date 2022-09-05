@@ -3,7 +3,6 @@ layout: page
 title: Research
 permalink: /Research/
 ---
-## Research
 
 ![AZ Sunset](docs/AZsunset.jpg)
 
