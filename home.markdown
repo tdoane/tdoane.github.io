@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tyler H. Doane, PhD
+title: Home
 permalink: /home/
 ---
 ![](docs/AZView.png)
