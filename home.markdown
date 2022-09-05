@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Tyler H. Doane, PhD
 permalink: /home/
 ---
 
