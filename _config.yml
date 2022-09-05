@@ -40,11 +40,11 @@ plugins:
   - jekyll-include-cache
   - jemoji
   
-#navigation_header:
-#- title: Tyler H. Doane, PhD
-#- url: "/"
-#- title: Research
-#- url: "/research/"
+navigation_header:
+- title: Tyler H. Doane, PhD
+- url: "/"
+- title: Research
+- url: "/research/"
 #- title: Teaching
 #- url: "/teaching/"
 # Exclude from processing.
