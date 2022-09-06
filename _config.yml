@@ -22,7 +22,7 @@ title: Tyler H. Doane, PhD
 email: doanet@iu.edu
 description: Tyler H. Doane, PhD, Geomorphologist. Postdoctoral Research Scientist at USGS.
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/tdoane/tdoane.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thdoane
 github_username:  tdoane
 permalink: base
@@ -42,9 +42,9 @@ plugins:
   
 navigation_header:
 - title: Research
-- url: "/research"
+- url: "/home/research"
 - title: Teaching
-- url: "/teaching"
+- url: "/home/teaching"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
