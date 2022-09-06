@@ -12,18 +12,18 @@ A complete and updated C.V. can be found here:
 <br />
 [C.V.](/docs/Doane_CV2022.pdf)
 ## Topographic Roughness
-In many soil- and sediment-mantled settings, topographic roughness is created by relatively large stochastic geomorphic processes and is removed by more chronic processes. For example, tree throw is a natural ecogeomorphic disturbance to forests that creates characteristic pit-mound couplets that then degrade through time. Recent work fully develops this idea and uses high resolution topographic data to extract meaningful infomration about tree throw rates and probabilities. I've also extended this idea to other geomorphic processes and settings to include shrub sediment mounds in semi-arid settings, alluvial fans and floodplains that contain abandoned channels by avulsion, and impact craters. As we continue to collect more and higher resolution topographic data (e.g. USGS 3D Elevation Program), work like this will provide meaningful ways to interpret emerging data sets.
-# Publications
+In soil- and sediment-mantled settings, topographic roughness is created by relatively large stochastic geomorphic processes and is removed by more chronic processes. For example, tree throw is a natural ecogeomorphic disturbance to forests that creates characteristic pit-mound couplets that then degrade through time. Recent work fully develops this idea and uses high resolution topographic data to extract meaningful information about tree throw rates and probabilities. I've also extended this idea to other geomorphic processes and settings to include shrub sediment mounds in semi-arid settings, alluvial fans and floodplains that contain abandoned channels by avulsion, and impact craters. As we continue to collect more and higher resolution topographic data (e.g. USGS 3D Elevation Program), work like this will provide meaningful ways to interpret emerging data sets.
+
 - **Doane, T. H.**, Gearon, J.H., Martin, H.K., Yanites, B.J., & Edmonds, D.A., (In prep.). Theory, Development, and Description of Process Topography, Target Journal: *Journal of Geophysical Research: Earth Surface*
 
-- **Doane, T. H.**, Yanites, B.J.; Edmonds, D.A.; & Novick, K.A. (In Review). Topographic roughness reveals forest sensitivity to extreme winds, *Proceedings of the National Academy of the Sciences*
+- **Doane, T. H.**, Yanites, B.J., Edmonds, D.A., & Novick, K.A. (In Review). Topographic roughness reveals forest sensitivity to extreme winds, *Proceedings of the National Academy of the Sciences*
 
 - **Doane, T. H.**, Edmonds, D.A., Yanites, B.J., & Lewis, Q.W. (2021). Topographic roughness on forested hillslopes: a theoretical approach for quantifying hillslope sediment flux from tree throw, *Geophysical Research Letters*,  10.1029/2021GL094987, (\textbf{Featured in EOS, Nov. 2021})
 
 ## Nonlocal Transport
 Nonlocal transport are a relatively new class of models that have recently gained some attention. They differ from more classic, local models in that the sediment flux at a position, x, is a function of conditions around x, weighted by the distance away. The weighting is done b the probability function of particle travel distance which describes the likelihood that a particle travels at least past position x. CLassic, local models only rely on positions at x. So, in steeplands, where particles travel long distances local models do not accurately represent the process. I've done work that develops, refines, and explores nonlocal models and the physics of particle motion on surfaces.
 
--Furbish, D.J., Roering, J.J., **Doane, T.H.**, Roth, D.L., and Williams, S.G. (2021). Rarefied particle motion on hilslopes: 1. Theory, *Earth Surface Dynamics*, doi.org/10.5194/esurf-9-539-2021
+- Furbish, D.J., Roering, J.J., **Doane, T.H.**, Roth, D.L., and Williams, S.G. (2021). Rarefied particle motion on hilslopes: 1. Theory, *Earth Surface Dynamics*, doi.org/10.5194/esurf-9-539-2021
  
 - Furbish, D.J., Williams, S.G., Roth, D.L., **Doane, T.H.**, and J.J. Roering, (2021) Rarefied particle motion on hillslopes: 2. Analysis, *Earth Surface Dynamics*, doi.org/10.5194/esurf-9-577-2021
  
@@ -38,7 +38,7 @@ Nonlocal transport are a relatively new class of models that have recently gaine
 - **Doane, T. H.**, Furbish, D.J., Roering, J.J., Schumer, R., & Morgan, D.M. (2018). Nonlocal transport on steep lateral moraines, eastern Sierra Nevada, California, USA, *Journal of Geophysical Research -- Earth Surface*, doi.org/10.1002/2017JF004325.
 
 ## Channel Networks and Sediment Yield
-Rill networks resemble much larger river networks and represent a relatively rapid sediment transport pathway on hillslopes. I've done work that develops a statistical representation of rill networks on hillslopes and the sediment yields that are expected from them. This owrk contributes towards a better understanding of the statistical moments of watershed shapes and sizes as a whole. 
+Rill networks resemble much larger river networks and represent a relatively rapid sediment transport pathway on hillslopes. I've done work that develops a statistical representation of rill networks on hillslopes and the sediment yields that are expected from them. This work contributes towards a better understanding of the statistical moments of watershed shapes and sizes as a whole and explains a long-standing observation of sediment yields on rilled slopes. 
 
 - **Doane, T. H.**, Pelletier, J.D., & Nichols, M. (2021). Hack distributions of rill networks and nonlinear slope length-soil loss relationships, *Earth Surface Dynamics*, doi.org/10.5194/esurf-9-317-2021
 
