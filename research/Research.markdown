@@ -12,7 +12,8 @@ A complete and updated C.V. can be found here:
 <br />
 [C.V.](/docs/Doane_CV2022.pdf)
 ## Topographic Roughness
-![]("figure 1.png")
+![Topo Roughness]("figure 1.png")
+
 In soil- and sediment-mantled settings, topographic roughness is created by relatively large stochastic geomorphic processes and is removed by more chronic processes. For example, tree throw is a natural ecogeomorphic disturbance to forests that creates characteristic pit-mound couplets that then degrade through time. Recent work fully develops this idea and uses high resolution topographic data to extract meaningful information about tree throw rates and probabilities. I've also extended this idea to other geomorphic processes and settings to include shrub sediment mounds in semi-arid settings, alluvial fans and floodplains that contain abandoned channels by avulsion, and impact craters. As we continue to collect more and higher resolution topographic data (e.g. USGS 3D Elevation Program), work like this will provide meaningful ways to interpret emerging data sets.
 
 - **Doane, T. H.**, Gearon, J.H., Martin, H.K., Yanites, B.J., & Edmonds, D.A., (In prep.). Theory, Development, and Description of Process Topography, Target Journal: *Journal of Geophysical Research: Earth Surface*
