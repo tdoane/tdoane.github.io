@@ -25,7 +25,7 @@ In soil- and sediment-mantled settings, topographic roughness is created by rela
 
 ## Nonlocal Transport
 
-<img align="left" src="Doane2018.jpg" width="250"> 
+<img src="Doane2018.png" width="250"> 
 
 <figcaption> Figure from Doane et al., (2018) illustrating the performance of different transport models. </figcaption>
 
