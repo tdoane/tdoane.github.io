@@ -23,6 +23,9 @@ In soil- and sediment-mantled settings, topographic roughness is created by rela
 - **Doane, T. H.**, Edmonds, D.A., Yanites, B.J., & Lewis, Q.W. (2021). Topographic roughness on forested hillslopes: a theoretical approach for quantifying hillslope sediment flux from tree throw, *Geophysical Research Letters*,  10.1029/2021GL094987, (\textbf{Featured in EOS, Nov. 2021})
 
 ## Nonlocal Transport
+![](Doane2018.jpg)
+<figcaption> Figure from Doane et al., (2018) illustrating the performance of different transport models. </figcaption>
+
 Nonlocal transport are a relatively new class of models that have recently gained some attention. They differ from more classic, local models in that the sediment flux at a position, x, is a function of conditions around x, weighted by the distance away. The weighting is done b the probability function of particle travel distance which describes the likelihood that a particle travels at least past position x. CLassic, local models only rely on positions at x. So, in steeplands, where particles travel long distances local models do not accurately represent the process. I've done work that develops, refines, and explores nonlocal models and the physics of particle motion on surfaces.
 
 - Furbish, D.J., Roering, J.J., **Doane, T.H.**, Roth, D.L., and Williams, S.G. (2021). Rarefied particle motion on hilslopes: 1. Theory, *Earth Surface Dynamics*, doi.org/10.5194/esurf-9-539-2021
@@ -40,6 +43,8 @@ Nonlocal transport are a relatively new class of models that have recently gaine
 - **Doane, T. H.**, Furbish, D.J., Roering, J.J., Schumer, R., & Morgan, D.M. (2018). Nonlocal transport on steep lateral moraines, eastern Sierra Nevada, California, USA, *Journal of Geophysical Research -- Earth Surface*, doi.org/10.1002/2017JF004325.
 
 ## Channel Networks and Sediment Yield
+![](DoaneRills.png)
+<figcaption> Figure from Doane et al., (2021) showing a rilled hillslope in southern Arizona.</figcaption>
 Rill networks resemble much larger river networks and represent a relatively rapid sediment transport pathway on hillslopes. I've done work that develops a statistical representation of rill networks on hillslopes and the sediment yields that are expected from them. This work contributes towards a better understanding of the statistical moments of watershed shapes and sizes as a whole and explains a long-standing observation of sediment yields on rilled slopes. 
 
 - **Doane, T. H.**, Pelletier, J.D., & Nichols, M. (2021). Hack distributions of rill networks and nonlinear slope length-soil loss relationships, *Earth Surface Dynamics*, doi.org/10.5194/esurf-9-317-2021
