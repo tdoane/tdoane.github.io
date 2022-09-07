@@ -25,7 +25,7 @@ In soil- and sediment-mantled settings, topographic roughness is created by rela
 
 ## Nonlocal Transport
 
-<img src="Doane2018.jpg"> 
+<img src="Doane2018.png" width="200"/> 
 
 Nonlocal transport are a relatively new class of models that have recently gained some attention. They differ from more classic, local models in that the sediment flux at a position, x, is a function of conditions around x, weighted by the distance away. The weighting is done b the probability function of particle travel distance which describes the likelihood that a particle travels at least past position x. CLassic, local models only rely on positions at x. So, in steeplands, where particles travel long distances local models do not accurately represent the process. I've done work that develops, refines, and explores nonlocal models and the physics of particle motion on surfaces.
 
