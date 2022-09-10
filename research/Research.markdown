@@ -6,7 +6,7 @@ permalink: research
 
 ![AZ Sunset](docs/AZsunset.jpg)
 
-My work aims to describe the physical elements and consequences of geomorphic processes. 
+A common theme throughout my work is that I develop mathematical and probability theory that describe sediment transport processes and their consequences. I've worked on a number of different problems listed below. 
 
 A complete and updated C.V. can be found here:
 <br />
@@ -21,7 +21,7 @@ In soil- and sediment-mantled settings, topographic roughness is created by rela
 
 - **Doane, T. H.**, Yanites, B.J., Edmonds, D.A., & Novick, K.A. (In Review). Topographic roughness reveals forest sensitivity to extreme winds, *Proceedings of the National Academy of the Sciences*
 
-- **Doane, T. H.**, Edmonds, D.A., Yanites, B.J., & Lewis, Q.W. (2021). Topographic roughness on forested hillslopes: a theoretical approach for quantifying hillslope sediment flux from tree throw, *Geophysical Research Letters*,  10.1029/2021GL094987, (\textbf{Featured in EOS, Nov. 2021})
+- **Doane, T. H.**, Edmonds, D.A., Yanites, B.J., & Lewis, Q.W. (2021). Topographic roughness on forested hillslopes: a theoretical approach for quantifying hillslope sediment flux from tree throw, *Geophysical Research Letters*,  10.1029/2021GL094987, (*Featured in EOS, Nov. 2021*)
 
 ## Nonlocal Transport
 
