@@ -3,4 +3,18 @@ layout: page
 title: Teaching
 permalink: teaching
 ---
-I recently taught the Geomorphology course at UC Berkeley. This is an upper level surface process course that discusses glacial, hillslope, and fluvial processes. Three different field trips accompany each section and a major class project. I taught this course in the fall of 2021 when the delta variant of Covid-19 was on the rise and the Dixie Fire in the Sierra Nevada forced us to adapt a field trip to an online one. While the field experience would have been great for the students, developing a virtual version is a valuable exericse and is important to have in place for the future. 
+
+Students of Earth science have opportunities to engage with the surrounding physical world, learn practical concepts and skills, and improve quantitative literacy. I harness these opportunities as a teacher and aim to provide a base of knowledge and skills that enrich students’ futures.
+### Experience
+
+## Instructor of Record
+# Geomorphology, Earth and Planetary Sciences, The University of California, Berkeley, 2021
+- Process-based course on hillslope, river, and glacial settings
+- Developed a virtual field trip during the rise of the delta Covid-19 variant and due to the Dixie Fire.
+- Developed new exercises that allow students to engage with the material.
+
+## T.A. (EES, Vanderbilt University)
+# Structural Geology (4 times)
+# Sedimentology (1 time)
+# Geomogphology (1 time)
+# Dynamic Earth (2 times)
