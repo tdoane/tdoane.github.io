@@ -6,7 +6,7 @@ permalink: research
 
 ![AZ Sunset](docs/AZsunset.jpg)
 
-A common theme throughout my work is that I develop mathematical and probability theory that describe sediment transport processes and their consequences. I've worked on a number of different problems listed below. 
+A common theme throughout my work is that I develop mathematical and probability theory that describes sediment transport processes and their consequences. I've worked on a number of different problems listed below. 
 
 A complete and updated C.V. can be found here:
 <br />
