@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: teaching
 ---
-
+![](classPhoto.jpg)
 Students of Earth science have opportunities to engage with the surrounding physical world, learn practical concepts and skills, and improve quantitative literacy. I harness these opportunities as a teacher and aim to provide a base of knowledge and skills that enrich students’ futures.
 # Experience
 
