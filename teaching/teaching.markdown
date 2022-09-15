@@ -18,5 +18,5 @@ Students of Earth science have opportunities to engage with the surrounding phys
 ### T.A. (EES, Vanderbilt University, 2012-2018)
 - Structural Geology (4 times)
 - Sedimentology (1 time)
-- Geomogphology (1 time)
+- Geomorphology (1 time)
 - Dynamic Earth (2 times)
