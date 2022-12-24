@@ -10,7 +10,7 @@ A common theme throughout my work is that I develop mathematical and probability
 
 A complete and updated C.V. can be found here:
 <br />
-[C.V.](/docs/Doane_CV2022.pdf)
+[C.V.](/docs/Doane_CV.pdf)
 ## Topographic Roughness
 ![Topo Roughness](figure1.png)
 <figcaption>A) Recent and  (B) old tree throw pit-mound couplets. Two slope maps (C) and (D) illustrate topographic roughness created by tree throw.</figcaption>
