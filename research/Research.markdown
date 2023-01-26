@@ -19,7 +19,7 @@ In soil- and sediment-mantled settings, topographic roughness is created by rela
 
 - **Doane, T. H.**, Gearon, J.H., Martin, H.K., Yanites, B.J., & Edmonds, D.A., (In prep.). Theory, Development, and Description of Process Topography, Target Journal: *Journal of Geophysical Research: Earth Surface*
 
-- **Doane, T. H.**, Yanites, B.J., Edmonds, D.A., & Novick, K.A. (In Review). Topographic roughness reveals forest sensitivity to extreme winds, *Proceedings of the National Academy of the Sciences*
+- **Doane, T. H.**, Yanites, B.J., Edmonds, D.A., & Novick, K.A. (2023). Topographic roughness reveals forest sensitivity to extreme winds, *Proceedings of the National Academy of the Sciences*, https://doi.org/10.1073/pnas.2212105120
 
 - **Doane, T. H.**, Edmonds, D.A., Yanites, B.J., & Lewis, Q.W. (2021). Topographic roughness on forested hillslopes: a theoretical approach for quantifying hillslope sediment flux from tree throw, *Geophysical Research Letters*,  10.1029/2021GL094987, (*Featured in EOS, Nov. 2021*)
 
