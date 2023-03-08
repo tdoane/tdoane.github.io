@@ -47,6 +47,8 @@ navigation_header:
   url:  /research
 - title: Teaching
   url: /teaching
+- title: Media
+  url: /media
   
 navigation_footer:
 - title: Tyler H. Doane
@@ -55,6 +57,8 @@ navigation_footer:
   url: /research
 - title: Teaching
   url: /teaching
+- title: Media
+  url: /media
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
