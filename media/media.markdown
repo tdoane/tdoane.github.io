@@ -15,7 +15,7 @@ January, 2023
 
 [Indiana Public Media, 2023](https://www.youtube.com/watch?v=3QyrTmXSiSk)
 
-[Indiana New](https://news.iu.edu/live/news/28111-uprooted-trees-serve-as-physical-record-for)
+[News at IU](https://news.iu.edu/live/news/28111-uprooted-trees-serve-as-physical-record-for)
 
 October, 2021
 
