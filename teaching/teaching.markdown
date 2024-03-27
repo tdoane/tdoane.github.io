@@ -10,6 +10,9 @@ Students of Earth science have opportunities to engage with the surrounding phys
 # Experience
 
 ### Instructor of Record
+- Geomorphology and Remote Sensing, Earth, Environmental, and Planetary Sciences, Case Western Reserve University, 2023
+  - Process-based surface process courses
+  - Project and lab-based 
 - Geomorphology, Earth and Planetary Sciences, The University of California, Berkeley, 2021
   - Process-based course on hillslope, river, and glacial settings
   - Developed a virtual field trip during the rise of the delta Covid-19 variant and due to the Dixie Fire.
